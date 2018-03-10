@@ -7,7 +7,7 @@ using System.Numerics;
 
 namespace Neo.SmartContract
 {
-    public class ICO_Template : Framework.SmartContract
+    public class HandiCraftsToken : Framework.SmartContract
     {
         //Token Settings
         public static string Name() => "HandiCrafts Token";
