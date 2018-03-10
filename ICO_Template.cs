@@ -11,7 +11,7 @@ namespace Neo.SmartContract
     {
         //Token Settings
         public static string Name() => "HandiCrafts Token";
-        public static string Symbol() => "HCT";
+        public static string Symbol() => "HCTK";
         public static readonly byte[] Owner = { 3, 187, 229, 24, 210, 160, 223, 151, 120, 4, 75, 218, 45, 86, 245, 64, 245, 83, 124, 232, 151, 71, 38, 227, 96, 205, 235, 243, 92, 232, 131, 100, 253 };//20
         public static byte Decimals() => 8;
         private const ulong factor = 100000000; //decided by Decimals()
@@ -19,8 +19,8 @@ namespace Neo.SmartContract
 
         //ICO Settings
         //private static readonly byte[] neo_asset_id = { 155, 124, 255, 218, 166, 116, 190, 174, 15, 147, 14, 190, 96, 133, 175, 144, 147, 229, 254, 86, 179, 74, 92, 34, 12, 205, 207, 110, 252, 51, 111, 197 };//32
-        private const ulong total_amount = 100000000 * factor; // total token amount
-        private const ulong pre_ico_cap = 30000000 * factor; // pre ico token amount
+        private const ulong total_amount = 1000 * factor; // total token amount
+        private const ulong pre_ico_cap = 200 * factor; // pre ico token amount
         private const ulong basic_rate = 1000 * factor;
         private const int ico_start_time = 1506787200;
         private const int ico_end_time = 1538323200;
