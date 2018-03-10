@@ -11,7 +11,7 @@ namespace Neo.SmartContract
     {
         //Token Settings
         public static string Name() => "HandiCrafts Token";
-        public static string Symbol() => "HCTK";
+        public static string Symbol() => "HCT";
         public static readonly byte[] Owner = { 3, 187, 229, 24, 210, 160, 223, 151, 120, 4, 75, 218, 45, 86, 245, 64, 245, 83, 124, 232, 151, 71, 38, 227, 96, 205, 235, 243, 92, 232, 131, 100, 253 };//20
         public static byte Decimals() => 8;
         private const ulong factor = 100000000; //decided by Decimals()
