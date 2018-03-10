@@ -1,6 +1,0 @@
-E:\Projects\Neo\examples-csharp-master\examples-csharp-master\ICO_Template\bin\Debug\ICO_Template.dll
-E:\Projects\Neo\examples-csharp-master\examples-csharp-master\ICO_Template\bin\Debug\ICO_Template.pdb
-E:\Projects\Neo\examples-csharp-master\examples-csharp-master\ICO_Template\bin\Debug\Neo.SmartContract.Framework.dll
-E:\Projects\Neo\examples-csharp-master\examples-csharp-master\ICO_Template\obj\Debug\ICO_Template.csproj.CoreCompileInputs.cache
-E:\Projects\Neo\examples-csharp-master\examples-csharp-master\ICO_Template\obj\Debug\ICO_Template.dll
-E:\Projects\Neo\examples-csharp-master\examples-csharp-master\ICO_Template\obj\Debug\ICO_Template.pdb
